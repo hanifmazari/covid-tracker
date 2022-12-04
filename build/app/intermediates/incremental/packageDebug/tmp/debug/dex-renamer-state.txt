@@ -1,0 +1,4 @@
+#Sun Dec 04 16:14:21 PKT 2022
+base.0=D\:\\flutter-videos-asif-taj\\rest-apis-backend\\apis-tut\\Flutter-Covid-19-Tracker-App-Tutorials-main\\Flutter-Covid-19-Tracker-App-Tutorials-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
